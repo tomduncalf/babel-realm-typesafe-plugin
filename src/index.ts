@@ -9,7 +9,7 @@ const OPERATOR_MAP = {
   "!==": "!=",
 };
 
-// Map JS string functions (fake - they only exist as Typescript definitions)  to RQL operators
+// Map JS string functions (fake - they only exist as Typescript definitions) to RQL operators
 const STRING_FN_MAP = {
   startsWith: "BEGINSWITH",
   endsWith: "ENDSWITH",
