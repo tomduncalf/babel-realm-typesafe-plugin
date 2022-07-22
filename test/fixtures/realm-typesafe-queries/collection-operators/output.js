@@ -1,0 +1,1 @@
+realm.objects('Test').filtered("collection.@count > 1");

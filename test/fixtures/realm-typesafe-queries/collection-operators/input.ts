@@ -1,0 +1,1 @@
+realm.objects('Test').filtered(t => t.collection.count() > 1);
