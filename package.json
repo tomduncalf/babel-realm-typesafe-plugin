@@ -1,0 +1,21 @@
+{
+  "name": "babel-realm-typesafe-plugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.18.9",
+    "@babel/helper-plugin-utils": "^7.18.9",
+    "@babel/traverse": "^7.18.9"
+  },
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
