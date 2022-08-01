@@ -1,4 +1,6 @@
-Proof of concept plugin for writing "typesafe" queries with Realm JS. 100% not suitable for production usage!
+# ⚠️ 100% not suitable for production usage! ⚠️
+
+Proof of concept plugin for writing "typesafe" queries with Realm JS. 
 
 See also the [example app](https://github.com/tomduncalf/realm-typesafe-demo).
 
